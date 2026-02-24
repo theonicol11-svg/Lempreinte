@@ -1,0 +1,36 @@
+{{ $val := .Get "valeur" | float }}
+{{ $nbCarres := math.Ceil $val }}
+
+<div class="impact-container" style="position: relative; margin-bottom: 16px;">
+    <a href="{{ .Get "lien" | default "#" }}" target="_blank" style="text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;">
+        
+        <div style="background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;">
+            
+            <div style="padding-right: 100px;"> <strong style="font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;">
+                    {{ .Get "nom" }}
+                </strong>
+                <div style="display: flex; gap: 4px; flex-wrap: wrap;">
+                    {{ range seq $nbCarres }}
+                        <div style="width: 10px; height: 10px; border-radius: 2px; background-color: {{ if lt $val 2.0 }}#2ecc71{{ else if lt $val 5.0 }}#f1c40f{{ else }}#e74c3c{{ end }};"></div>
+                    {{ end }}
+                </div>
+            </div>
+
+            <div style="position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;">
+                <div style="line-height: 1;">
+                    <div style="font-weight: 900; font-size: 1.8em; color: {{ if lt $val 2.0 }}#2ecc71{{ else if lt $val 5.0 }}#f1c40f{{ else }}#e74c3c{{ end }};">
+                        {{ if le $val 1.0 }}
+                            <span style="font-size: 0.8em;">LE TOP</span>
+                        {{ else }}
+                            <small style="font-size: 0.5em; vertical-align: middle;">×</small>{{ $val }}
+                        {{ end }}
+                    </div>
+                    <div style="font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;">
+                        {{ if le $val 1.0 }}REFERENCE{{ else }}IMPACT{{ end }}
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </a>
+</div>

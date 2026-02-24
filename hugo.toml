@@ -1,8 +1,43 @@
 baseURL = 'https://github.com/theonicol11-svg/L-empreinte.git'
 languageCode = 'fr-fr'
+defaultContentLanguage = 'fr'
 title = 'Lempreinte'
-theme = 'hugo-book'
+theme = 'PaperMod'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[languages]
+  [languages.fr]
+    languageName = 'Français'
+    contentDir = 'content'
+    weight = 1
+
+[params]
+  # Ce format correspond à Jour Mois Année
+  BookDateFormat = "2 January 2006"
+  showSnippet = true
+  
+[params.searchConfig]
+layout = "search"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 2
+    keys = ["title", "permalink", "summary", "content"]
+
+

@@ -1,26 +1,1420 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Lempreinte</title>
     <link>http://localhost:1313/theonicol11-svg/L-empreinte.git/posts/</link>
     <description>Recent content in Posts on Lempreinte</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.155.2</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 04 Feb 2026 23:00:42 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 19:45:13 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/theonicol11-svg/L-empreinte.git/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Brosse a Dents</title>
-      <link>http://localhost:1313/theonicol11-svg/L-empreinte.git/posts/brosse_a_dents/</link>
-      <pubDate>Wed, 04 Feb 2026 23:00:42 +0100</pubDate>
-      <guid>http://localhost:1313/theonicol11-svg/L-empreinte.git/posts/brosse_a_dents/</guid>
-      <description>&lt;h2 id=&#34;brosse-à-dents&#34;&gt;Brosse à dents&lt;a class=&#34;anchor&#34; href=&#34;#brosse-%c3%a0-dents&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&#xA;hghhhhhhhh&lt;/p&gt;</description>
+      <title>Proteines</title>
+      <link>http://localhost:1313/theonicol11-svg/L-empreinte.git/posts/proteines/</link>
+      <pubDate>Sun, 15 Feb 2026 19:45:13 +0100</pubDate>
+      <guid>http://localhost:1313/theonicol11-svg/L-empreinte.git/posts/proteines/</guid>
+      <description>&lt;h2 id=&#34;quelle-source-de-protéine-est-la-moins-polluante-&#34;&gt;Quelle source de protéine est la moins polluante ?&lt;/h2&gt;
+&lt;p&gt;Pour une même quantitée de protéine pour chaque aliments&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/20503#Haricot_rouge,_cuit&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Haricot rouge (cuit)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #2ecc71;&#34;&gt;
+                        
+                            &lt;span style=&#34;font-size: 0.8em;&#34;&gt;LE TOP&lt;/span&gt;
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        REFERENCE
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/20904#Tofu,_nature&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Tofu (cru)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #2ecc71;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;1.1
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/20589#Lentille_corail,_cuite&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Lentille corail (cuit)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #2ecc71;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;1.2
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/20587#Lentille_verte,_cuite&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Lentille verte (cuit)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #2ecc71;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;1.3
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/20507#Pois_chiche,_cuit&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Pois chiches (cuit)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #2ecc71;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;1.4
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/25598#Seitan,_pr%C3%A9emball%C3%A9&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Préparation de blé/seitan (cru)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #2ecc71;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;1.4
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/15202#Beurre_de_cacahu%C3%A8te_ou_P%C3%A2te_d%27arachide&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Beurre de cacahuète
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #f1c40f;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;3.2
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/12118#Emmental_ou_emmenthal_r%C3%A2p%C3%A9&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Frommage - Emmental râpé
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #f1c40f;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;3.2
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/12110#Comt%C3%A9&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Frommage - Comté
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #f1c40f;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;3.2
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/30181#Hach%C3%A9_v%C3%A9g%C3%A9tal_%C3%A0_base_de_soja,_pr%C3%A9emball%C3%A9&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Haché végétal à base de soja (cru)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #f1c40f;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;3.6
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/22010#Oeuf,_dur&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Oeuf (cuit)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #f1c40f;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;4
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/20037#Petits_pois,_cuits&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Petits pois (cuit)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #f1c40f;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;4
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/19646#Fromage_blanc_nature,_3%25_MG_environ&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Frommage blanc nature
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #f1c40f;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;4.4
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/26041#Thon,_r%C3%B4ti/cuit_au_four&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Thon (cuit)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #f1c40f;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;4.6
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/26036#Saumon,_cru,_%C3%A9levage&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Saumon élevage (cru)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;5.2
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/19042#Lait_demi-%C3%A9cr%C3%A9m%C3%A9,_pasteuris%C3%A9&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Lait demi-écrémé
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;5.5
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/36018#Poulet,_filet,_sans_peau,_cuit&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Filet de poulet (cuit)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;6.1
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/28900#Jambon_cuit,_sup%C3%A9rieur&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Jambon blanc (cuit)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;6.7
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/28963#Jambon_de_poulet_ou_Blanc_de_poulet_en_tranche&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Jambon de poulet
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;7
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/28800#Jambon_cru&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Jambon (cru)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;10
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/30011#Saucisse_de_Toulouse,_cuite&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Saucisse (cuite)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;10.8
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/6255#B%C5%93uf,_steak_hach%C3%A9_15%25_MG,_cuit&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Bœuf, steak haché 15% MG (cuit)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;26
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/10007#Crevette,_cuite&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Crevette (cuit)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;29.7
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://agribalyse.ademe.fr/app/aliments/30155#Merguez,_boeuf_et_mouton,_cuite&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Merguez (cuite)
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;31.7
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/theonicol11-svg/L-empreinte.git/posts/my-first-post/</link>
-      <pubDate>Wed, 04 Feb 2026 22:10:31 +0100</pubDate>
-      <guid>http://localhost:1313/theonicol11-svg/L-empreinte.git/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&#xA;hghhhhhhhh&lt;/p&gt;</description>
+      <title>Smartphone</title>
+      <link>http://localhost:1313/theonicol11-svg/L-empreinte.git/posts/smartphone/</link>
+      <pubDate>Sun, 15 Feb 2026 19:34:28 +0100</pubDate>
+      <guid>http://localhost:1313/theonicol11-svg/L-empreinte.git/posts/smartphone/</guid>
+      <description>&lt;h2 id=&#34;quel-téléphone-est-le-moins-impactant-&#34;&gt;Quel téléphone est le moins impactant ?&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://librairie.ademe.fr/economie-circulaire-et-dechets/5241-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Téléphone reconnditionné
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #2ecc71;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #2ecc71;&#34;&gt;
+                        
+                            &lt;span style=&#34;font-size: 0.8em;&#34;&gt;LE TOP&lt;/span&gt;
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        REFERENCE
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://www.fairphone.com/wp-content/uploads/2024/09/Fairphone5_LCA_Report_2024.pdf&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Fairphone 5
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #f1c40f;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;3.8
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://www.samsung.com/global/sustainability/policy-file/AYVhR1k6BicAIx95/LCA%20Results%20for%20Smartphones.pdf&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Samsung A17
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #f1c40f;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;4.1
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://cdn.cnbj1.fds.api.mi-img.com/staticsfile/svhc/2023%E5%B9%B4%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E7%BD%91%E7%AB%99/Product%20Environmental%20Report--Xiaomi14%EF%BC%88EN%29.pdf&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Xiaomi 14
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #f1c40f;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #f1c40f;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;4.8
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://www.apple.com/euro/environment/pdf/b/generic/iPhone_17_Pro_and_iPhone_17_Pro_Max_PER_Sept2025_EU.pdf&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Iphone 17 pro
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;5.8
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;impact-container&#34; style=&#34;position: relative; margin-bottom: 16px;&#34;&gt;
+    &lt;a href=&#34;https://www.samsung.com/global/sustainability/policy-file/AYVhR1k6BicAIx95/LCA%20Results%20for%20Smartphones.pdf&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none !important; border: none !important; box-shadow: none !important; display: block; color: inherit;&#34;&gt;
+        
+        &lt;div style=&#34;background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; padding: 18px; min-height: 85px; display: flex; align-items: center;&#34;&gt;
+            
+            &lt;div style=&#34;padding-right: 100px;&#34;&gt; &lt;strong style=&#34;font-size: 1.1em; color: #2d3436; display: block; margin-bottom: 8px; line-height: 1.2;&#34;&gt;
+                    Galaxy Z TriFold
+                &lt;/strong&gt;
+                &lt;div style=&#34;display: flex; gap: 4px; flex-wrap: wrap;&#34;&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                        &lt;div style=&#34;width: 10px; height: 10px; border-radius: 2px; background-color: #e74c3c;&#34;&gt;&lt;/div&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;div style=&#34;position: absolute; right: 18px; top: 50%; transform: translateY(-50%); text-align: right; width: 90px;&#34;&gt;
+                &lt;div style=&#34;line-height: 1;&#34;&gt;
+                    &lt;div style=&#34;font-weight: 900; font-size: 1.8em; color: #e74c3c;&#34;&gt;
+                        
+                            &lt;small style=&#34;font-size: 0.5em; vertical-align: middle;&#34;&gt;×&lt;/small&gt;7.9
+                        
+                    &lt;/div&gt;
+                    &lt;div style=&#34;font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;&#34;&gt;
+                        IMPACT
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

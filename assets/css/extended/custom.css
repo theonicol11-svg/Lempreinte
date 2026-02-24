@@ -1,0 +1,7 @@
+/* Supprime le soulignement des liens dans tout le site */
+a {
+    text-decoration: none !important;
+    box-shadow: none !important; /* PaperMod utilise souvent un box-shadow pour souligner */
+}
+
+
