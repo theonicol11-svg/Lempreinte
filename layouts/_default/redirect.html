@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Redirection...</title>
+    {{/* Cette ligne génère l'URL parfaite automatiquement peu importe le nom du domaine */}}
+    {{ $searchPage := .Site.GetPage "/search" }}
+    <meta http-equiv="refresh" content="0; url={{ $searchPage.Permalink }}">
+    <script>window.location.replace("{{ $searchPage.Permalink }}")</script>
+  </head>
+  <body>
+    Redirection vers <a href="{{ $searchPage.Permalink }}">la recherche</a>...
+  </body>
+</html>
