@@ -1,5 +1,5 @@
-baseURL = "https://theonicol11-svg.github.io/L-empreinte/"
-canonifyURLs = true
+baseURL = "https://www.lempreinte.site/"
+canonifyURLs = false
 languageCode = 'fr-fr'
 defaultContentLanguage = 'fr'
 title = 'Lempreinte'
