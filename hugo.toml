@@ -41,4 +41,9 @@ layout = "search"
     minMatchCharLength = 2
     keys = ["title", "permalink", "summary", "content"]
 
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 30
 
