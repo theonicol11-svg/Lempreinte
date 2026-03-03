@@ -17,6 +17,4 @@ draft: false
 Ton analyse ici...
 
 ---
-## Sources
-Clique sur un article de la liste pour voir son analyse de cycle de vie complète.
-Les ACV sont publiques et réalisées par des tiers. Elle ne sont pas effectué par Empreinte, nous verifions simplement leur cohérence.
+[Une question ou une remarque ? Vous pouvez me contacter ici]({{< relref "contact.md" >}})
