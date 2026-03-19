@@ -25,6 +25,9 @@
                             <small style="font-size: 0.5em; vertical-align: middle;">×</small>{{ $val }}
                         {{ end }}
                     </div>
+                    <div style="font-size: 0.8em; font-weight: 700; color: #b2bec3; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px;">
+                        {{ if le $val 1.0 }}REFERENCE{{ else }}IMPACT{{ end }}
+                    </div>
                 </div>
             </div>
         </summary>
