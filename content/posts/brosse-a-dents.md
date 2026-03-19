@@ -1,6 +1,5 @@
 ---
 title: "Brosse à dents"
-date: 2026-02-26T13:44:57+01:00
 draft: false
 # bookComments: false
 # bookSearchExclude: false

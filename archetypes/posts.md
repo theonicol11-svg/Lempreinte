@@ -1,6 +1,5 @@
 ---
 title: "{{ .Name | humanize | title }}"
-date: {{ .Date }}
 draft: false
 # bookComments: false
 # bookSearchExclude: false
@@ -13,8 +12,4 @@ draft: false
 
 
 ---
-## Informations sur l'étude comparative
-Ton analyse ici...
-
----
-[Une question ou une remarque ? Vous pouvez me contacter ici]({{< relref "contact.md" >}})
+[Une question ou une remarque ? Cliquez ici]({{< relref "contact.md" >}})
