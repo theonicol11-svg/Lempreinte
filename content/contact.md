@@ -4,13 +4,16 @@ layout: "page"
 summary: "Expertise en Analyse de Cycle de Vie (ACV) et transparence environnementale."
 ---
 
-**Lempreinte est un cabinet spécialisé en Analyse de Cycle de Vie (ACV) produits.** Nous accompagnons les entreprises et les organisations dans la mesure précise de leur impact environnemental pour construire un futur plus durable.
+**Particuliers ?** 
+L'objectif de **Lempreinte** est de vous aider à réduire votre impact environnemental au moment de consommer. Nous regroupons des Analyses de Cycle de Vie (ACV) issues du monde scientifique pour déterminer l'impact réel des objets du quotidien pour eviter le greenwashing et prioriser des actions avec un vrai impact.
+Si vous voyez une erreur dans nos fiches produits ou pour tout autre question, contactez nous via le formulaire ci-dessous.
 
-#### Comment pouvons-nous vous aider ?
+**Professionnelle ?** 
+Lempreinte accompagne votre entreprise dans la réalisation de l'**ACV de vos produits**. Nous analysons chaque étape pour vous fournir des pistes d'amélioration concrètes et diminuer votre empreinte globale. Les données sont confidentielles et n'apparaissent pas sur notre site internet.
 
-* **Expertise Professionnelle :** Vous souhaitez réaliser une **ACV complète** pour l'un de vos produits ou services ? Contactez-nous pour une étude personnalisée.
-* **Contributeurs & Utilisateurs :** Une suggestion d'analyse, une question technique sur nos calculs ou une erreur à nous signaler ? Votre retour est précieux pour la précision de nos données.
-* **Partenariats :** Vous souhaitez intégrer nos analyses ou collaborer sur un projet numérique responsable ?
+* **Tarif ACV produit :** 500 euros TTC.
+* **Délai moyen :** 3 semaines.
+
 
 *Utilisez le formulaire ci-dessous pour nous transmettre votre demande, nous vous répondrons dans les plus brefs délais.*
 
