@@ -41,11 +41,6 @@ layout = "search"
     minMatchCharLength = 2
     keys = ["title", "permalink", "summary", "content"]
 
-[[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 40
 
 [[menu.main]]
     identifier = "lempreinte"
@@ -55,7 +50,7 @@ layout = "search"
 
 [[menu.main]]
     identifier = "search"
-    name = "Rechercher"
+    name = "Rechercher un produit"
     url = "/search/"
     weight = 10
 

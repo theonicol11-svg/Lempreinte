@@ -61,7 +61,7 @@ body:has(#searchbox) .page-header {
     backdrop-filter: blur(8px);
     border-radius: 12px;
     margin: 15px auto !important;
-    width: 800px !important; /* Aligné sur la barre */
+    width: 550px !important; /* Aligné sur la barre */
     max-width: 90vw !important;
 }
 

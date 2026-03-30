@@ -11,13 +11,6 @@ Nous nous appuyons sur une notation scientifique rigoureuse (l'Analyse de Cycle 
 Pour garantir sa neutralité, Lempreinte est exclusivement financée par la réalisation d'expertises ACV pour les entreprises. **Nous ne sommes jamais rémunérés pour communiquer sur un sujet ou pour mettre en avant une marque.**
 
 
-
----
-### Ecologie et pouvoir d'achat
-Nous sommes conscients que la solution la plus écologique peut parfois représenter un investissement économique important. Le but de Lempreinte n'est pas de faire culpabiliser, dans certains cas le coût est un frein réel. 
-
-Cependant, il arrive souvent que la solution la plus vertueuse soit aussi la plus économique. Notre mission est de créer un automatisme chez le consommateur : **vérifier systématiquement si une alternative plus écologique et accessible existe avant chaque achat.**
-
 ---
 France, Bretagne, Finistère.
 <p>
