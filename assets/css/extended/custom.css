@@ -5,54 +5,56 @@ a {
 }
 
 /* 2. FOND D'ÉCRAN PAGE RECHERCHE */
-/* On cible le body de la page liste qui contient le searchbox */
 body:has(#searchbox) {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), 
-                      url('/images/search.png') !important;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0)), 
+                      url('/images/search.jpg') !important;
     background-attachment: fixed !important;
     background-size: cover !important;
     background-position: center !important;
 }
 
-.dark body:has(#searchbox) {
-    background-image: linear-gradient(rgba(24, 25, 26, 0.92), rgba(24, 25, 26, 0.92)), 
-                      url('/images/search.png') !important;
-}
-
-/* On force la transparence du contenu */
 body:has(#searchbox) .main, 
 body:has(#searchbox) .content {
     background: transparent !important;
 }
 
-/* 3. DESIGN ET LARGUEUR DE LA BARRE */
-
-/* Masquer le titre H1 */
+/* 3. DESIGN ET LARGEUR DE LA BARRE */
 body:has(#searchbox) .page-header {
     display: none !important;
 }
 
-/* Forcer le centrage du bloc de recherche */
 #searchbox {
     display: flex !important;
     flex-direction: column !important;
     align-items: center !important;
     justify-content: center !important;
-    margin-top: 25vh !important; /* Ajuste la hauteur ici */
+    margin-top: 20vh !important; 
     width: 100% !important;
 }
 
-/* LA BARRE ELLE-MÊME : On force la largeur ici */
+/* Barre version Ordinateur */
 #searchbox input {
-    width: 550px !important; /* LARGEUR FORCÉE */
-    max-width: 90vw !important; /* Sécurité pour mobile */
+    width: 550px !important;
+    max-width: 95vw !important;
     padding: 18px 30px !important;
     font-size: 1.1rem !important;
-    text-align: center !important; /* Centre le texte écrit et le placeholder */
+    text-align: center !important;
     border-radius: 50px !important;
     border: 2px solid var(--primary) !important;
     background: var(--code-bg) !important;
     box-shadow: 0 10px 25px rgba(0,0,0,0.1) !important;
+}
+
+/* Ajustement Mobile (iPhone) */
+@media screen and (max-width: 600px) {
+    #searchbox input {
+        padding: 22px 20px !important; 
+        font-size: 0.9rem !important; 
+        border-radius: 25px !important; 
+    }
+    #searchbox {
+        margin-top: 12vh !important;
+    }
 }
 
 /* 4. RÉSULTATS DE RECHERCHE */
@@ -61,20 +63,15 @@ body:has(#searchbox) .page-header {
     backdrop-filter: blur(8px);
     border-radius: 12px;
     margin: 15px auto !important;
-    width: 550px !important; /* Aligné sur la barre */
-    max-width: 90vw !important;
+    width: 600px !important; 
+    max-width: 95vw !important;
 }
 
-.dark .search-entry {
-    background: rgba(30, 30, 30, 0.7) !important;
-}
-
-/* 4. DESIGN des pages
-/* Centre toutes les images dans les pages de contenu */
+/* 5. DESIGN DES PAGES (Images centrées) */
 .post-content img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 8px; /* Optionnel : arrondit un peu les coins pour le style */
-    max-width: 100%;    /* Évite que l'image dépasse sur mobile */
+    border-radius: 8px;
+    max-width: 100%;
 }

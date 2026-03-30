@@ -25,7 +25,16 @@ theme = 'PaperMod'
   # Ce format correspond à Jour Mois Année
   BookDateFormat = "2 January 2006"
   showSnippet = true
+  # Force le mode clair (ou "dark" si tu préfères le sombre)
+  defaultTheme = "light"
+  # Désactive le bouton de changement de mode
+  disableThemeToggle = true
   
+[params.label]
+    text = "Lempreinte" # Le texte qui restera à côté du logo
+    icon = "/images/logo.png" # Chemin vers ton logo
+    iconHeight = 40 # Ajuste la hauteur pour qu'il s'aligne bien avec le texte
+
 [params.searchConfig]
 layout = "search"
 
