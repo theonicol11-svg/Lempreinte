@@ -1,24 +1,10 @@
 ---
-title: "Contactez Lempreinte"
+title: "Contact"
 layout: "page"
-summary: "Expertise en Analyse de Cycle de Vie (ACV) et transparence environnementale."
+summary: "Contact"
 ---
 
-### Particuliers ? 
-L'objectif de **Lempreinte** est de vous aider à réduire votre impact environnemental au moment de consommer. Nous regroupons des Analyses de Cycle de Vie (ACV) issues du monde scientifique pour déterminer l'impact réel des objets du quotidien pour éviter le greenwashing et prioriser des actions avec un vrai impact.
-Si vous voyez une erreur dans nos fiches produits ou pour tout autre question, contactez-nous via le formulaire ci-dessous.
-
 ---
-
-### Professionnels ? 
-Lempreinte accompagne votre entreprise dans la réalisation de l'**ACV de vos produits**. Nous analysons chaque étape pour vous fournir des pistes d'amélioration concrètes et diminuer votre empreinte globale. Les données sont confidentielles et n'apparaissent pas sur notre site internet.
-
-* **Tarif ACV produit :** 500 euros TTC.
-* **Délai moyen :** 3 semaines.
-
----
-
-
 *Utilisez le formulaire ci-dessous pour nous transmettre votre demande, nous vous répondrons dans les plus brefs délais.*
 
 <form action="https://formspree.io/f/mykdalqj" method="POST" style="display: grid; gap: 20px; max-width: 600px; margin: 30px 0;">
@@ -31,7 +17,7 @@ Lempreinte accompagne votre entreprise dans la réalisation de l'**ACV de vos pr
 
   <div style="display: flex; flex-direction: column; gap: 8px;">
     <label style="font-weight: bold; font-size: 0.9rem;">Sujet :</label>
-    <input type="text" name="subject" placeholder="À propos de quel objet ?" required 
+    <input type="text" name="subject" placeholder="À propos de quel sujet ?" required 
       style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid var(--border); background: var(--code-bg); color: var(--content); outline: none;">
   </div>
 

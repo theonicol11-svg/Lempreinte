@@ -17,7 +17,7 @@ draft: false
 
 ---
 ## Informations sur l'étude comparative
-Les scores présentés sont issus d'une étude publiée dans le British Dental Journal. Cette analyse repose sur des scénarios généraux ; les résultats réels peuvent varier significativement selon plusieurs facteurs, tels que le lieu de production, l'origine précise des matériaux, les modes de transport utilisés ou les filières de recyclage locales.
+Ton analyse ici...
 
 ---
 [Une question ou une remarque ? Cliquez ici]({{< relref "contact.md" >}})
