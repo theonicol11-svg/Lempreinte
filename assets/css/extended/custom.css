@@ -13,12 +13,12 @@ body:has(#searchbox) {
     background-position: center !important;
 }
 
-body:has(#searchbox) .main, 
-body:has(#searchbox) .content {
+body:has(#searchbox) .main {
     background: transparent !important;
 }
 
-/* 3. DESIGN ET LARGEUR DE LA BARRE */
+/* 3. DESIGN UNIFIÉ (STYLE ECOSIA PUR) */
+
 body:has(#searchbox) .page-header {
     display: none !important;
 }
@@ -27,50 +27,90 @@ body:has(#searchbox) .page-header {
     display: flex !important;
     flex-direction: column !important;
     align-items: center !important;
-    justify-content: center !important;
     margin-top: 20vh !important; 
     width: 100% !important;
 }
 
-/* Barre version Ordinateur */
+/* LA BARRE DE RECHERCHE */
 #searchbox input {
-    width: 550px !important;
+    width: 600px !important;
     max-width: 95vw !important;
     padding: 18px 30px !important;
     font-size: 1.1rem !important;
-    text-align: center !important;
-    border-radius: 50px !important;
-    border: 2px solid var(--primary) !important;
-    background: var(--code-bg) !important;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.1) !important;
+    text-align: left !important;
+    border: 1px solid rgba(0,0,0,0.1) !important;
+    background: white !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1) !important;
+    z-index: 10;
+    border-radius: 28px !important; 
+    transition: all 0.2s ease;
 }
 
-/* Ajustement Mobile (iPhone) */
+/* --- SUPPRESSION DE LA LIGNE GRISE (Hacher le conteneur vide) --- */
+#searchResults:empty {
+    display: none !important;
+}
+
+/* Quand on commence à taper, on soude l'input au bloc du dessous */
+#searchbox input:not(:placeholder-shown) {
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+/* LE BLOC DES RÉSULTATS (Apparaît seulement si non vide) */
+#searchResults {
+    display: block;
+    width: 600px !important;
+    max-width: 95vw !important;
+    background: white !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    /* On ne met la bordure que sur les côtés et le bas */
+    border: 1px solid rgba(0,0,0,0.1) !important;
+    border-top: none !important; 
+    border-bottom-left-radius: 28px !important;
+    border-bottom-right-radius: 28px !important;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1) !important;
+    overflow: hidden;
+}
+
+/* --- NETTOYAGE RADICAL DES RÉSULTATS --- */
+.search-entry {
+    background: white !important;
+    margin: 0 !important; 
+    padding: 20px 30px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    border: none !important;      /* Supprime le rectangle gris */
+    box-shadow: none !important;  /* Supprime l'ombre individuelle */
+    border-radius: 0 !important;  /* Supprime les arrondis individuels */
+}
+
+/* On s'assure que le titre et le texte dans le résultat sont propres */
+.search-entry .entry-title, .search-entry .entry-content {
+    background: transparent !important;
+    border: none !important;
+}
+
+.search-entry:hover {
+    background-color: #fcfcfc !important;
+}
+
+/* 4. AJUSTEMENT MOBILE */
 @media screen and (max-width: 600px) {
+    #searchbox input, #searchResults {
+        width: 90vw !important;
+    }
     #searchbox input {
-        padding: 15px 20px !important; 
-        /* On force à 16px pour éviter le zoom auto sur iPhone */
-        font-size: 16px !important; 
-        border-radius: 25px !important; 
-        /* On réduit un peu le placeholder s'il dépasse toujours */
-        line-height: 1.2 !important;
+        font-size: 16px !important;
+        padding: 15px 20px !important;
     }
     #searchbox {
-        margin-top: 12vh !important;
+        margin-top: 10vh !important;
     }
 }
 
-/* 4. RÉSULTATS DE RECHERCHE */
-.search-entry {
-    background: rgba(255, 255, 255, 0.7) !important;
-    backdrop-filter: blur(8px);
-    border-radius: 12px;
-    margin: 15px auto !important;
-    width: 600px !important; 
-    max-width: 95vw !important;
-}
-
-/* 5. DESIGN DES PAGES (Images centrées) */
+/* 5. DESIGN DES PAGES */
 .post-content img {
     display: block;
     margin-left: auto;
