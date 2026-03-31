@@ -118,3 +118,48 @@ body:has(#searchbox) .page-header {
     border-radius: 8px;
     max-width: 100%;
 }
+
+/* ============================================================
+   DESIGN DES PAGES ARTICLES (POSTS)
+   ============================================================ */
+
+/* On cible le body quand il contient un article unique */
+body:has(.post-single) {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0)), 
+                      url('/images/search.jpg') !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+/* On s'assure que le fond du site ne bloque pas l'image */
+body:has(.post-single) .main {
+    background: transparent !important;
+}
+
+/* Masquer le titre de l'article (post-header) */
+.post-single .post-header {
+    display: none !important;
+}
+
+/* Le bloc blanc de l'article (style épuré) */
+.post-single {
+    background: rgba(255, 255, 255, 0.9) !important;
+    padding: 40px !important;
+    border-radius: 24px !important;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.05) !important;
+    margin-top: 40px !important;
+    margin-bottom: 60px !important;
+    max-width: 800px !important; /* Pour une lecture plus confortable */
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* Mobile */
+@media screen and (max-width: 600px) {
+    .post-single {
+        padding: 25px 20px !important;
+        margin: 20px 10px !important;
+        border-radius: 16px !important;
+    }
+}

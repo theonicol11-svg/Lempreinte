@@ -14,5 +14,6 @@ draft: false
 {{< impact_V3 nom="Plastique électrique" valeur="25.3" poids="25,296pt" details="Impact environnemental massif dû à la fabrication des composants électroniques et de la batterie, dépassant de loin les modèles manuels." lien="https://www.fairphone.com/wp-content/uploads/2024/09/Fairphone5_LCA_Report_2024.pdf" >}}
 
 
+
 ---
-[Une question ou une remarque ? Cliquez ici]({{< relref "contact.md" >}})
+Une question ou une remarque ? [Contactez nous]({{< relref "contact.md" >}})

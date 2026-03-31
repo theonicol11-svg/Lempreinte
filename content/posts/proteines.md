@@ -37,9 +37,6 @@ Pour une même quantitée de protéine pour chaque aliments
 {{< impact_V3 nom="Merguez (cuite)" valeur="31.7" poids="0,022020202020202 kg CO2eq" details="Impact record car cumulant l'empreinte élevée du bœuf/mouton et les pertes de masse à la cuisson." lien="https://agribalyse.ademe.fr/app/aliments/30155#Merguez,_boeuf_et_mouton,_cuite" >}}
 
 
----
-## Informations sur l'étude comparative
-L'analyse des sources de protéines repose sur un croisement de données issues d'Agribalyse (impacts environnementaux) et du Ciqual (composition nutritionnelle). Afin d'assurer une comparaison équitable, l'empreinte affichée est calculée pour 1 gramme de protéine contenu dans l'aliment, et non pour 1 gramme de l'aliment brut. Cette approche permet de mesurer l'impact réel nécessaire pour répondre à un même besoin nutritionnel.
 
 ---
-[Une question ou une remarque ? Cliquez ici]({{< relref "contact.md" >}})
+Une question ou une remarque ? [Contactez nous]({{< relref "contact.md" >}})
