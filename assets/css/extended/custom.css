@@ -48,9 +48,12 @@ body:has(#searchbox) .page-header {
 /* Ajustement Mobile (iPhone) */
 @media screen and (max-width: 600px) {
     #searchbox input {
-        padding: 22px 20px !important; 
-        font-size: 0.9rem !important; 
+        padding: 15px 20px !important; 
+        /* On force à 16px pour éviter le zoom auto sur iPhone */
+        font-size: 16px !important; 
         border-radius: 25px !important; 
+        /* On réduit un peu le placeholder s'il dépasse toujours */
+        line-height: 1.2 !important;
     }
     #searchbox {
         margin-top: 12vh !important;
