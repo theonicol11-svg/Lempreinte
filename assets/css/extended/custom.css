@@ -37,7 +37,7 @@ body:has(#searchbox) .page-header {
     max-width: 95vw !important;
     padding: 18px 30px !important;
     font-size: 1.1rem !important;
-    text-align: left !important;
+    text-align: center !important;
     border: 1px solid rgba(0,0,0,0.1) !important;
     background: white !important;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1) !important;

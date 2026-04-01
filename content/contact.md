@@ -3,7 +3,7 @@ title: "Contact"
 layout: "page"
 summary: "Contact"
 ---
-
+### Vous avez une question, une remarque ?
 ---
 *Utilisez le formulaire ci-dessous pour nous transmettre votre demande, nous vous répondrons dans les plus brefs délais.*
 

@@ -3,7 +3,6 @@ title: "Analyse de cycle de vie"
 layout: "page"
 summary: "Expertise ACV rigoureuse basée sur les standards internationaux."
 ---
----
 ### Vous développez une solution durable ?
 
 Pour permettre aux innovateurs de prouver leur impact, Lempreinte propose des Analyses de Cycle de Vie (ACV) à des tarifs accessibles, spécifiquement pensés pour les petites entreprises. Notre mission est de vous fournir la crédibilité scientifique nécessaire pour mettre en avant vos technologies en faveur de l'environnement.
