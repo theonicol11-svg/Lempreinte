@@ -2,6 +2,7 @@
 title: "L'entreprise"
 layout: "page"
 summary: "Expertise en Analyse de Cycle de Vie (ACV), indépendance et transparence environnementale."
+searchHidden: true
 ---
 
 L’objectif de **Lempreinte** est de propulser les technologies émergentes qui agissent concrètement pour réduire l’impact carbone de notre quotidien, et ce, dans tous les domaines. 

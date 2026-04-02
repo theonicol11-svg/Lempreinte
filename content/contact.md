@@ -2,6 +2,7 @@
 title: "Contact"
 layout: "page"
 summary: "Contact"
+searchHidden: true
 ---
 ### Vous avez une question, une remarque ?
 ---
