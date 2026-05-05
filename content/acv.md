@@ -2,7 +2,7 @@
 title: "Analyse de cycle de vie"
 layout: "page"
 summary: "Expertise ACV rigoureuse basée sur les standards internationaux."
-searchHidden: true
+searchhidden: true
 ---
 ### Vous développez une solution durable ?
 

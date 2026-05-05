@@ -4,20 +4,33 @@ a {
     box-shadow: none !important; 
 }
 
-/* 2. FOND D'ÉCRAN PAGE RECHERCHE */
-body:has(#searchbox) {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0)), 
-                      url('/images/search.jpg') !important;
-    background-attachment: fixed !important;
-    background-size: cover !important;
-    background-position: center !important;
+/* ============================================================
+   2. CONFIGURATION DU CANVAS (FOND TOPOGRAPHIQUE DYNAMIQUE)
+   ============================================================ */
+
+/* On fixe le canvas derrière tout le contenu */
+#c {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1; /* Passe derrière le texte */
+    display: block;
+    pointer-events: none; /* Permet de cliquer sur les boutons/liens normalement */
 }
 
-body:has(#searchbox) .main {
+/* On rend le fond du site transparent pour voir le canvas */
+body, 
+body:has(#searchbox), 
+body:has(.post-single),
+.main {
     background: transparent !important;
 }
 
-/* 3. DESIGN UNIFIÉ (STYLE ECOSIA PUR) */
+/* ============================================================
+   3. DESIGN UNIFIÉ (STYLE ECOSIA PUR)
+   ============================================================ */
 
 body:has(#searchbox) .page-header {
     display: none !important;
@@ -42,22 +55,15 @@ body:has(#searchbox) .page-header {
     background: white !important;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1) !important;
     z-index: 10;
-    border-radius: 28px !important; 
+    border-radius: 8px !important; 
     transition: all 0.2s ease;
 }
 
-/* --- SUPPRESSION DE LA LIGNE GRISE (Hacher le conteneur vide) --- */
-#searchResults:empty {
-    display: none !important;
-}
-
-/* Quand on commence à taper, on soude l'input au bloc du dessous */
 #searchbox input:not(:placeholder-shown) {
     border-bottom-left-radius: 0 !important;
     border-bottom-right-radius: 0 !important;
 }
 
-/* LE BLOC DES RÉSULTATS (Apparaît seulement si non vide) */
 #searchResults {
     display: block;
     width: 600px !important;
@@ -65,7 +71,6 @@ body:has(#searchbox) .page-header {
     background: white !important;
     margin: 0 !important;
     padding: 0 !important;
-    /* On ne met la bordure que sur les côtés et le bas */
     border: 1px solid rgba(0,0,0,0.1) !important;
     border-top: none !important; 
     border-bottom-left-radius: 28px !important;
@@ -74,21 +79,16 @@ body:has(#searchbox) .page-header {
     overflow: hidden;
 }
 
-/* --- NETTOYAGE RADICAL DES RÉSULTATS --- */
+#searchResults:empty {
+    display: none !important;
+}
+
 .search-entry {
     background: white !important;
     margin: 0 !important; 
     padding: 20px 30px !important;
     width: 100% !important;
     max-width: 100% !important;
-    border: none !important;      /* Supprime le rectangle gris */
-    box-shadow: none !important;  /* Supprime l'ombre individuelle */
-    border-radius: 0 !important;  /* Supprime les arrondis individuels */
-}
-
-/* On s'assure que le titre et le texte dans le résultat sont propres */
-.search-entry .entry-title, .search-entry .entry-content {
-    background: transparent !important;
     border: none !important;
 }
 
@@ -110,52 +110,31 @@ body:has(#searchbox) .page-header {
     }
 }
 
-/* 5. DESIGN DES PAGES */
-.post-content img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 8px;
-    max-width: 100%;
-}
-
-/* ============================================================
-   DESIGN DES PAGES ARTICLES (POSTS)
-   ============================================================ */
-
-/* On cible le body quand il contient un article unique */
-body:has(.post-single) {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0)), 
-                      url('/images/search.jpg') !important;
-    background-attachment: fixed !important;
-    background-size: cover !important;
-    background-position: center !important;
-}
-
-/* On s'assure que le fond du site ne bloque pas l'image */
-body:has(.post-single) .main {
-    background: transparent !important;
-}
-
-/* Masquer le titre de l'article (post-header) */
-.post-single .post-header {
-    display: none !important;
-}
-
-/* Le bloc blanc de l'article (style épuré) */
+/* 5. DESIGN DES PAGES ARTICLES (POSTS) */
 .post-single {
+    /* Le bloc de l'article reste avec un fond blanc légèrement opaque */
     background: rgba(255, 255, 255, 0.9) !important;
     padding: 40px !important;
     border-radius: 24px !important;
     box-shadow: 0 15px 35px rgba(0,0,0,0.05) !important;
     margin-top: 40px !important;
     margin-bottom: 60px !important;
-    max-width: 800px !important; /* Pour une lecture plus confortable */
+    max-width: 800px !important;
     margin-left: auto !important;
     margin-right: auto !important;
 }
 
-/* Mobile */
+.post-single .post-header {
+    display: none !important;
+}
+
+.post-content img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    max-width: 100%;
+}
+
 @media screen and (max-width: 600px) {
     .post-single {
         padding: 25px 20px !important;
