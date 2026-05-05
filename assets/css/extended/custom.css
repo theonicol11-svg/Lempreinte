@@ -46,55 +46,96 @@ body:has(#searchbox) .page-header {
 }
 
 /* LA BARRE DE RECHERCHE */
+/* --- 1. L'INPUT (BARRE DE RECHERCHE) --- */
 #searchbox input {
     width: 600px !important;
     max-width: 95vw !important;
     padding: 18px 30px !important;
-    font-size: 1.1rem !important;
-    text-align: center !important;
-    border: 1px solid rgba(0,0,0,0.1) !important;
     background: white !important;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1) !important;
-    z-index: 10;
-    border-radius: 8px !important; 
+    border: 1px solid rgba(0,0,0,0.1) !important;
+    border-radius: 12px !important; /* Arrondi par défaut */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05) !important;
     transition: all 0.2s ease;
+    margin-bottom: 20px; /* Espace quand vide */
 }
 
+/* Quand on tape : on aplatit le bas de l'input */
 #searchbox input:not(:placeholder-shown) {
     border-bottom-left-radius: 0 !important;
     border-bottom-right-radius: 0 !important;
+    margin-bottom: 0 !important; /* On colle à la pub */
+    box-shadow: 0 10px 15px rgba(0,0,0,0.05) !important;
 }
 
-#searchResults {
-    display: block;
+/* --- 2. LE CADRE PUB (LA JONCTION) --- */
+#search-ad-box {
     width: 600px !important;
     max-width: 95vw !important;
     background: white !important;
+    border: 1px solid rgba(0,0,0,0.1) !important;
+    border-radius: 12px !important; /* Arrondi par défaut */
+    padding: 20px;
+    margin: 0 auto;
+    transition: all 0.2s ease;
+}
+
+/* Quand on tape : la pub devient le milieu du sandwich */
+#searchbox input:not(:placeholder-shown) + #search-ad-box {
+    border-top: none !important; /* Supprime la double bordure avec l'input */
+    border-bottom: none !important; /* Supprime la bordure avec les résultats */
+    border-radius: 0 !important; /* Devient rectangle */
+    box-shadow: none !important;
+}
+
+/* --- LE CONTENU DE LA PUB --- */
+
+/* Le titre : "ESPACE PUBLICITAIRE DISPONIBLE" */
+.ad-placeholder {
+    display: block !important;
+    font-size: 0.75rem !important; /* Plus petit */
+    font-weight: 700 !important;   /* Plus gras */
+    color: #b0b0b0 !important;     /* Gris clair */
+    text-transform: uppercase !important; /* Tout en majuscules */
+    letter-spacing: 1.2px !important;    /* Lettres espacées pour le look pro */
+    margin-bottom: 8px !important;
+    text-align: center !important;
+}
+
+/* Le texte : "C'est la seule publicité..." */
+.ad-disclaimer {
+    display: block !important;
+    font-size: 0.85rem !important; /* Taille normale de lecture */
+    font-weight: 400 !important;   /* Écriture fine */
+    color: #666 !important;        /* Gris plus foncé pour la lisibilité */
+    line-height: 1.5 !important;
     margin: 0 !important;
+    text-align: center !important;
+}
+
+/* Mise en avant du mot "seule publicité" */
+.ad-disclaimer strong {
+    color: #333 !important;
+    font-weight: 600 !important;
+}
+
+/* --- 3. LES RÉSULTATS (LE BAS DU SANDWICH) --- */
+#searchResults {
+    width: 600px !important;
+    max-width: 95vw !important;
+    background: white !important;
+    margin: 0 auto !important;
     padding: 0 !important;
     border: 1px solid rgba(0,0,0,0.1) !important;
-    border-top: none !important; 
-    border-bottom-left-radius: 28px !important;
-    border-bottom-right-radius: 28px !important;
+    border-top: none !important; /* Soudé à la pub */
+    border-bottom-left-radius: 12px !important;
+    border-bottom-right-radius: 12px !important;
     box-shadow: 0 15px 30px rgba(0,0,0,0.1) !important;
     overflow: hidden;
 }
 
+/* On cache les résultats s'ils sont vides pour ne pas avoir un trait qui traîne */
 #searchResults:empty {
     display: none !important;
-}
-
-.search-entry {
-    background: white !important;
-    margin: 0 !important; 
-    padding: 20px 30px !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    border: none !important;
-}
-
-.search-entry:hover {
-    background-color: #fcfcfc !important;
 }
 
 /* 4. AJUSTEMENT MOBILE */
@@ -143,3 +184,4 @@ body:has(#searchbox) .page-header {
         border-radius: 16px !important;
     }
 }
+
