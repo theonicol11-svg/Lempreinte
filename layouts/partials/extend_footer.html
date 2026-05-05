@@ -7,7 +7,6 @@
     const dpr = Math.min(window.devicePixelRatio || 1, 2);
     
     let W, H;
-    // On réduit un peu la résolution de la grille pour la fluidité de l'animation
     const COLS = 100, ROWS = 60; 
     const g = new Float32Array((COLS + 1) * (ROWS + 1));
 
@@ -21,7 +20,6 @@
     window.addEventListener('resize', resize);
     resize();
 
-    // On ajoute des propriétés de mouvement (vx, vy) et des positions de base
     const PEAKS = [
         { cx: 0.18, cy: 0.42, a: 1.1, sx: 0.15, sy: 0.20, phase: 0, speed: 0.0005 },
         { cx: 0.52, cy: 0.22, a: 1.8, sx: 0.20, sy: 0.25, phase: 2, speed: 0.0007 },
@@ -33,10 +31,8 @@
     function field(x, y, time) {
         let v = 0;
         for (const p of PEAKS) {
-            // On fait osciller doucement la position des sommets avec Math.sin/cos
             const ox = p.cx + Math.cos(time * p.speed + p.phase) * 0.1;
             const oy = p.cy + Math.sin(time * p.speed + p.phase) * 0.1;
-            
             const dx = (x - ox) / p.sx;
             const dy = (y - oy) / p.sy;
             v += p.a * Math.exp(-(dx * dx + dy * dy) * 0.5);
@@ -51,14 +47,10 @@
     }
 
     function animate(time) {
-        const isDark = document.body.classList.contains('dark') || 
-                       matchMedia('(prefers-color-scheme:dark)').matches;
-
-        // 1. Nettoyage et fond
-        ctx.fillStyle = isDark ? '#1c1c1a' : '#ffffff';
+        // RENDU FORCÉ EN BLANC
+        ctx.fillStyle = '#ffffff'; 
         ctx.fillRect(0, 0, W, H);
 
-        // 2. Mise à jour de la grille de relief
         let lo = Infinity, hi = -Infinity;
         for (let j = 0; j <= ROWS; j++) {
             for (let i = 0; i <= COLS; i++) {
@@ -69,10 +61,10 @@
             }
         }
 
-        // 3. Dessin des courbes
-        ctx.strokeStyle = isDark ? 'rgba(210,205,190,0.2)' : 'rgba(35,35,30,0.08)';
-        ctx.lineWidth = 0.9;
-        const LEVELS = 20;
+        // COULEUR DES LIGNES (Gris très léger pour un look épuré)
+        ctx.strokeStyle = 'rgba(35,35,30,0.08)'; 
+        ctx.lineWidth = 0.8;
+        const LEVELS = 25;
 
         for (let l = 1; l < LEVELS; l++) {
             const lv = lo + (l / LEVELS) * (hi - lo);
@@ -83,46 +75,37 @@
                     const v10 = g[j * (COLS + 1) + i + 1];
                     const v11 = g[(j + 1) * (COLS + 1) + i + 1];
                     const v01 = g[(j + 1) * (COLS + 1) + i];
-                    
                     const code = (v00 > lv ? 8 : 0) | (v10 > lv ? 4 : 0) | (v11 > lv ? 2 : 0) | (v01 > lv ? 1 : 0);
                     if (code === 0 || code === 15) continue;
 
                     const x0 = i / COLS * W, y0 = j / ROWS * H;
                     const x1 = (i + 1) / COLS * W, y1 = (j + 1) / ROWS * H;
-
-                    const T = [lerp(x0, x1, ei(v00, v10, lv)), y0];
-                    const R = [x1, lerp(y0, y1, ei(v10, v11, lv))];
-                    const B = [lerp(x0, x1, ei(v01, v11, lv)), y1];
-                    const L = [x0, lerp(y0, y1, ei(v00, v01, lv))];
+                    const T = [lerp(x0, x1, ei(v00, v10, lv)), y0], R = [x1, lerp(y0, y1, ei(v10, v11, lv))], B = [lerp(x0, x1, ei(v01, v11, lv)), y1], L = [x0, lerp(y0, y1, ei(v00, v01, lv))];
 
                     let segments = [];
                     switch (code) {
-                        case 1:  segments = [[L, B]]; break;
-                        case 2:  segments = [[B, R]]; break;
-                        case 3:  segments = [[L, R]]; break;
-                        case 4:  segments = [[T, R]]; break;
-                        case 5:  segments = [[T, R], [L, B]]; break;
-                        case 6:  segments = [[T, B]]; break;
-                        case 7:  segments = [[T, L]]; break;
-                        case 8:  segments = [[T, L]]; break;
-                        case 9:  segments = [[T, B]]; break;
+                        case 1: segments = [[L, B]]; break;
+                        case 2: segments = [[B, R]]; break;
+                        case 3: segments = [[L, R]]; break;
+                        case 4: segments = [[T, R]]; break;
+                        case 5: segments = [[T, R], [L, B]]; break;
+                        case 6: segments = [[T, B]]; break;
+                        case 7: segments = [[T, L]]; break;
+                        case 8: segments = [[T, L]]; break;
+                        case 9: segments = [[T, B]]; break;
                         case 10: segments = [[T, L], [B, R]]; break;
                         case 11: segments = [[T, R]]; break;
                         case 12: segments = [[L, R]]; break;
                         case 13: segments = [[B, R]]; break;
                         case 14: segments = [[L, B]]; break;
                     }
-                    for (const [p, q] of segments) {
-                        ctx.moveTo(p[0], p[1]);
-                        ctx.lineTo(q[0], q[1]);
-                    }
+                    for (const [p, q] of segments) { ctx.moveTo(p[0], p[1]); ctx.lineTo(q[0], q[1]); }
                 }
             }
             ctx.stroke();
         }
         requestAnimationFrame(animate);
     }
-
     requestAnimationFrame(animate);
 })();
 </script>

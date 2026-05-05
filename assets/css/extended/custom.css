@@ -15,9 +15,10 @@ a {
     left: 0;
     width: 100vw;
     height: 100vh;
-    z-index: -1; /* Passe derrière le texte */
+    z-index: -1;
     display: block;
-    pointer-events: none; /* Permet de cliquer sur les boutons/liens normalement */
+    pointer-events: none;
+    background: #ffffff; /* Sécurité supplémentaire */
 }
 
 /* On rend le fond du site transparent pour voir le canvas */
