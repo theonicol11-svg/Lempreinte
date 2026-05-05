@@ -23,6 +23,7 @@
 <div id="searchbox">
     <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
         aria-label="search" type="search" autocomplete="off" maxlength="64">
+    <ul id="searchResults" aria-label="search results"></ul>
     <div id="search-ad-box">
         <div class="ad-content">
             <p class="ad-placeholder">Espace publicitaire disponible</p>
@@ -32,7 +33,6 @@
             </p>
         </div>
     </div>
-    <ul id="searchResults" aria-label="search results"></ul>
 </div>
 
 {{- end }}{{/* end main */}}

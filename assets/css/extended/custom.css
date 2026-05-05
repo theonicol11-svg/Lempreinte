@@ -56,7 +56,7 @@ body:has(#searchbox) .page-header {
     border-radius: 12px !important; /* Arrondi par défaut */
     box-shadow: 0 4px 15px rgba(0,0,0,0.05) !important;
     transition: all 0.2s ease;
-    margin-bottom: 20px; /* Espace quand vide */
+    margin-bottom: 0px; /* Espace quand vide */
 }
 
 /* Quand on tape : on aplatit le bas de l'input */
@@ -73,19 +73,12 @@ body:has(#searchbox) .page-header {
     max-width: 95vw !important;
     background: white !important;
     border: 1px solid rgba(0,0,0,0.1) !important;
-    border-radius: 12px !important; /* Arrondi par défaut */
+    border-radius: 12px !important;
     padding: 20px;
-    margin: 0 auto;
+    margin: 25px auto !important; /* 25px en haut et en bas */
     transition: all 0.2s ease;
 }
 
-/* Quand on tape : la pub devient le milieu du sandwich */
-#searchbox input:not(:placeholder-shown) + #search-ad-box {
-    border-top: none !important; /* Supprime la double bordure avec l'input */
-    border-bottom: none !important; /* Supprime la bordure avec les résultats */
-    border-radius: 0 !important; /* Devient rectangle */
-    box-shadow: none !important;
-}
 
 /* --- LE CONTENU DE LA PUB --- */
 
@@ -131,6 +124,7 @@ body:has(#searchbox) .page-header {
     border-bottom-right-radius: 12px !important;
     box-shadow: 0 15px 30px rgba(0,0,0,0.1) !important;
     overflow: hidden;
+    margin-bottom: 0 !important;
 }
 
 /* On cache les résultats s'ils sont vides pour ne pas avoir un trait qui traîne */
@@ -140,7 +134,9 @@ body:has(#searchbox) .page-header {
 
 /* 4. AJUSTEMENT MOBILE */
 @media screen and (max-width: 600px) {
-    #searchbox input, #searchResults {
+    #searchbox input, 
+    #searchResults, 
+    #search-ad-box {
         width: 90vw !important;
     }
     #searchbox input {
